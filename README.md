@@ -1,2 +1,2 @@
 TP1 big data 
-treatement of massive size od distributed data using hadoop
+treatement of massive size of distributed data using hadoop
